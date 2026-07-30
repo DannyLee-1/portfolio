@@ -1,36 +1,49 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# IT 서비스 기획 PM 포트폴리오 — 이승주
 
-## Getting Started
+공공 제도 설계에서 플랫폼 서비스 배포까지.
+문제를 다시 정의하고, 화면과 데이터로 구현해 배포까지 확인합니다.
 
-First, run the development server:
+- **작동하는 MVP** → https://portfolio-adamlee.vercel.app
+- **포트폴리오 전문 (14p)** → [PDF 열기](./Portfolio_IT_PM_LeeSeungju.pdf)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ORBIT — 팀빌딩 매칭 플랫폼
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+아이디어는 있는데 어떤 역할과 팀원이 필요한지 모르는 사람을, 지분·성과를 함께 걸 팀원과 잇는 서비스입니다.
+부트캠프 3인 팀 프로젝트(2026.06~07)에서 문제 정의와 설계를 리드했습니다.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **북극성 지표(NSM)** — 주간 합류 합의 수
+- **MVP 범위** — 1개 역할 · 1명
+- **책임 경계** — 합류 합의까지. 이후 제작·정산·지분은 당사자 영역
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 산출물 (만든 순서대로)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+| 순서 | 문서 | 쉽게 말하면 | 열기 |
+|---|---|---|---|
+| 1 | PRD v2.1.1 | 무엇을 왜 만들지 정한 기획서 | [PDF](./ORBIT_PRD_v2_1_1.pdf) |
+| 2 | 정보구조도 (IA) v2.1.1 | 어떤 화면이 있고 누가 보는지 | [PDF](./ORBIT_IA_v2_1_1.pdf) |
+| 3 | 사용자 흐름도 v1.1 | 어떤 순서로 움직이는지 | [바로 보기](https://dannylee-1.github.io/portfolio/ORBIT_UserFlow_v1_1.html) |
+| 4 | 와이어프레임 v1.1 | 무엇이 어디 놓이는지 | [바로 보기](https://dannylee-1.github.io/portfolio/ORBIT_Wireframe_Desktop_v1_1.html) |
+| 5 | 화면정의서 v1.0 | 버튼·오류까지 적은 명세 | [PDF](./ORBIT_ScreenSpec_v1_0.pdf) |
+| 6 | 프로토타입 v2.0 | 실제로 눌러볼 수 있는 데모 | [바로 보기](https://dannylee-1.github.io/portfolio/ORBIT_Prototype_Desktop_v2_0.html) |
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+3·4·6번은 HTML 문서입니다. 파일을 직접 열면 코드로 보이니 **[바로 보기]** 링크를 이용해 주세요.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 핵심 설계 결정
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- 구체화 결과와 후보를 **첫 화면에 동시 제시** — 후보 도달까지 클릭 0회
+- 궁합 점수를 **예비(마스킹) / 최종(공개)** 로 분리 — 순환 참조를 설계로 해소
+- 팀 뱃지를 **"이번 역할 · 0/1"** 로 — 채울 수 없는 3을 약속하지 않음
+- 후보 카드에 **약점도 함께 표기** — 오버셀링 방지
+
+만들기 전에 비전문가 6명에게 먼저 물었고, 그 답이 설계를 바꿨습니다.
+채우지 못한 부분은 임의로 메우지 않고 **Open Issue 14건**으로 남겼습니다.
+
+---
+
+**이승주** · wkrurwmd135@gmail.com
