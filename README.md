@@ -4,7 +4,7 @@
 문제를 다시 정의하고, 화면과 데이터로 구현해 배포까지 확인합니다.
 
 - **작동하는 MVP** → https://portfolio-adamlee.vercel.app
-- **포트폴리오 전문 (14p)** → [PDF 열기](./Portfolio_IT_PM_LeeSeungju.pdf)
+- **포트폴리오 전문 (14p)** → [PDF 열기](./file/Portfolio_IT_PM_LeeSeungju.pdf)
 
 ---
 
@@ -23,12 +23,12 @@
 
 | 순서 | 문서 | 쉽게 말하면 | 열기 |
 |---|---|---|---|
-| 1 | PRD v2.1.1 | 무엇을 왜 만들지 정한 기획서 | [PDF](./ORBIT_PRD_v2_1_1.pdf) |
-| 2 | 정보구조도 (IA) v2.1.1 | 어떤 화면이 있고 누가 보는지 | [PDF](./ORBIT_IA_v2_1_1.pdf) |
-| 3 | 사용자 흐름도 v1.1 | 어떤 순서로 움직이는지 | [바로 보기](https://dannylee-1.github.io/portfolio/ORBIT_UserFlow_v1_1.html) |
-| 4 | 와이어프레임 v1.1 | 무엇이 어디 놓이는지 | [바로 보기](https://dannylee-1.github.io/portfolio/ORBIT_Wireframe_Desktop_v1_1.html) |
-| 5 | 화면정의서 v1.0 | 버튼·오류까지 적은 명세 | [PDF](./ORBIT_ScreenSpec_v1_0.pdf) |
-| 6 | 프로토타입 v2.0 | 실제로 눌러볼 수 있는 데모 | [바로 보기](https://dannylee-1.github.io/portfolio/ORBIT_Prototype_Desktop_v2_0.html) |
+| 1 | PRD v2.1.1 | 무엇을 왜 만들지 정한 기획서 | [PDF](./file/ORBIT_PRD_v2.1.1.pdf) |
+| 2 | 정보구조도 (IA) v2.1.1 | 어떤 화면이 있고 누가 보는지 | [PDF](./file/ORBIT_IA_v2.1.1.pdf) |
+| 3 | 사용자 흐름도 v1.1 | 어떤 순서로 움직이는지 | [바로 보기](https://portfolio-adamlee.vercel.app/ORBIT_UserFlow_v1.1.html) |
+| 4 | 와이어프레임 v1.1 | 무엇이 어디 놓이는지 | [바로 보기](https://portfolio-adamlee.vercel.app/ORBIT_Wireframe_Desktop_v1.1.html) |
+| 5 | 화면정의서 v1.0 | 버튼·오류까지 적은 명세 | [PDF](./file/ORBIT_ScreenSpec_v1.0.pdf) |
+| 6 | 프로토타입 v2.0 | 실제로 눌러볼 수 있는 데모 | [바로 보기](https://portfolio-adamlee.vercel.app/ORBIT_Prototype_Desktop_v2.0.html) |
 
 3·4·6번은 HTML 문서입니다. 파일을 직접 열면 코드로 보이니 **[바로 보기]** 링크를 이용해 주세요.
 
