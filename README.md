@@ -13,11 +13,11 @@
 
 ## 읽는 순서
 
-| | 볼 것 | 알 수 있는 것 |
-|---|---|---|
-| **3분** | [포트폴리오 전문](./file/Portfolio_IT_PM_LeeSeungju.pdf) p.1–3 | 두 사례가 무엇이고 어떤 결과를 냈는지 |
-| **10분** | + [프로토타입](https://dannylee-1.github.io/portfolio/file/ORBIT_Prototype_Desktop_v2.0.html) | 기획이 실제 화면으로 어떻게 떨어지는지. 상단 「스펙·계측」에 화면별 근거와 이벤트 로그가 붙어 있습니다 |
-| **30분** | + [PRD](./file/ORBIT_PRD_v2.1.1.pdf) → [화면정의서](./file/ORBIT_ScreenSpec_v1.0.pdf) | 문서를 어느 수준까지 쓰는지, 결정의 근거를 어떻게 남기는지 |
+| 볼 것 | 알 수 있는 것 |
+|---|---|
+| [포트폴리오 전문](./file/Portfolio_IT_PM_LeeSeungju.pdf) p.1–3 | 두 사례가 무엇이고 어떤 결과를 냈는지 |
+| + [프로토타입](https://dannylee-1.github.io/portfolio/file/ORBIT_Prototype_Desktop_v2.0.html) | 기획이 실제 화면으로 어떻게 떨어지는지. 상단 「스펙·계측」에 화면별 근거와 이벤트 로그가 붙어 있습니다 |
+| + [PRD](./file/ORBIT_PRD_v2.1.1.pdf) → [화면정의서](./file/ORBIT_ScreenSpec_v1.0.pdf) | 문서를 어느 수준까지 쓰는지, 결정의 근거를 어떻게 남기는지 |
 
 한 개만 본다면 **프로토타입**입니다.
 
