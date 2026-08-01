@@ -7,7 +7,7 @@
 
 | 포트폴리오 전문 | 프로토타입 | MVP 배포 |
 |:--:|:--:|:--:|
-| [열기](./file/Portfolio_IT_PM_LeeSeungju.pdf) | [열기](./file/ORBIT_Prototype_Desktop_v2.0.html) | [열기](https://portfolio-adamlee.vercel.app) |
+| [열기](./file/Portfolio_IT_PM_LeeSeungju.pdf) | [열기](https://dannylee-1.github.io/portfolio/file/ORBIT_Prototype_Desktop_v2.0.html) | [열기](https://portfolio-adamlee.vercel.app) |
 
 ---
 
@@ -16,7 +16,7 @@
 | | 볼 것 | 알 수 있는 것 |
 |---|---|---|
 | **3분** | [포트폴리오 전문](./file/Portfolio_IT_PM_LeeSeungju.pdf) p.1–3 | 두 사례가 무엇이고 어떤 결과를 냈는지 |
-| **10분** | + [프로토타입](./file/ORBIT_Prototype_Desktop_v2.0.html) | 기획이 실제 화면으로 어떻게 떨어지는지. 상단 「스펙·계측」에 화면별 근거와 이벤트 로그가 붙어 있습니다 |
+| **10분** | + [프로토타입](https://dannylee-1.github.io/portfolio/file/ORBIT_Prototype_Desktop_v2.0.html) | 기획이 실제 화면으로 어떻게 떨어지는지. 상단 「스펙·계측」에 화면별 근거와 이벤트 로그가 붙어 있습니다 |
 | **30분** | + [PRD](./file/ORBIT_PRD_v2.1.1.pdf) → [화면정의서](./file/ORBIT_ScreenSpec_v1.0.pdf) | 문서를 어느 수준까지 쓰는지, 결정의 근거를 어떻게 남기는지 |
 
 한 개만 본다면 **프로토타입**입니다.
@@ -32,10 +32,10 @@
 | 0 | **포트폴리오 전문** | 두 사례의 전체 이야기 (14p) | [바로보기](./file/Portfolio_IT_PM_LeeSeungju.pdf) |
 | 1 | **PRD** v2.1.1 | 무엇을, 왜 만들지 정한 문서 | [바로보기](./file/ORBIT_PRD_v2.1.1.pdf) |
 | 2 | **정보구조도(IA)** v2.1.1 | 어떤 화면이 있고 누가 보는지 정리한 지도 | [바로보기](./file/ORBIT_IA_v2.1.1.pdf) |
-| 3 | **사용자 흐름도** v1.1 | 처음부터 끝까지 어떤 순서로 움직이는지 | [바로보기](./file/ORBIT_UserFlow_v1.1.html) |
-| 4 | **와이어프레임** v1.1 | 무엇이 어디 놓이는지 + 왜 그 자리인지 | [바로보기](./file/ORBIT_Wireframe_Desktop_v1.1.html) |
+| 3 | **사용자 흐름도** v1.1 | 처음부터 끝까지 어떤 순서로 움직이는지 | [바로보기](https://dannylee-1.github.io/portfolio/file/ORBIT_UserFlow_v1.1.html) |
+| 4 | **와이어프레임** v1.1 | 무엇이 어디 놓이는지 + 왜 그 자리인지 | [바로보기](https://dannylee-1.github.io/portfolio/file/ORBIT_Wireframe_Desktop_v1.1.html) |
 | 5 | **화면정의서** v1.0 | 개발자가 헷갈리지 않게 버튼·상태·에러까지 적은 명세 | [바로보기](./file/ORBIT_ScreenSpec_v1.0.pdf) |
-| 6 | **프로토타입** v2.0 | 실제로 눌러볼 수 있는 데모 | [바로보기](./file/ORBIT_Prototype_Desktop_v2.0.html) |
+| 6 | **프로토타입** v2.0 | 실제로 눌러볼 수 있는 데모 | [바로보기](https://dannylee-1.github.io/portfolio/file/ORBIT_Prototype_Desktop_v2.0.html) |
 | 7 | **MVP 배포** | 주소로 접속하면 열리는 실제 사이트 | [바로보기](https://portfolio-adamlee.vercel.app) |
 | — | **임산부 불빛 배려석 제안서** | 사례 ①의 원본 제안 문서 | [바로보기](./file/임산부_배려석.pdf) |
 
