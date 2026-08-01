@@ -1,49 +1,77 @@
-# IT 서비스 기획 PM 포트폴리오 — 이승주
+## IT 서비스 기획 · PM 포트폴리오 — 이승주
 
-공공 제도 설계에서 플랫폼 서비스 배포까지.
-문제를 다시 정의하고, 화면과 데이터로 구현해 배포까지 확인합니다.
+표면의 문제를 구조의 문제로 다시 정의하고, 화면과 데이터로 구현해 배포까지 확인합니다.
 
-- **작동하는 MVP** → https://portfolio-adamlee.vercel.app
-- **포트폴리오 전문 (14p)** → [PDF 열기](./file/Portfolio_IT_PM_LeeSeungju.pdf)
+공공 제도 설계와 플랫폼 서비스 설계 두 사례의 산출물입니다.
+문서에서 끝내지 않고 **눌러볼 수 있는 프로토타입과 배포된 MVP**까지 만들었습니다.
 
----
-
-## ORBIT — 팀빌딩 매칭 플랫폼
-
-아이디어는 있는데 어떤 역할과 팀원이 필요한지 모르는 사람을, 지분·성과를 함께 걸 팀원과 잇는 서비스입니다.
-부트캠프 3인 팀 프로젝트(2026.06~07)에서 문제 정의와 설계를 리드했습니다.
-
-- **북극성 지표(NSM)** — 주간 합류 합의 수
-- **MVP 범위** — 1개 역할 · 1명
-- **책임 경계** — 합류 합의까지. 이후 제작·정산·지분은 당사자 영역
+| 포트폴리오 전문 | 프로토타입 | MVP 배포 |
+|:--:|:--:|:--:|
+| [열기](https://docs.google.com/presentation/d/104Rfggc78MU85dSzDAzINbqo-7tuh9yG/preview) | [열기](https://dannylee-1.github.io/portfolio/ORBIT_Prototype_Desktop_v2_0.html) | [열기](https://portfolio-adamlee.vercel.app) |
 
 ---
 
-## 산출물 (만든 순서대로)
+## 읽는 순서
 
-| 순서 | 문서 | 쉽게 말하면 | 열기 |
-|---|---|---|---|
-| 1 | PRD v2.1.1 | 무엇을 왜 만들지 정한 기획서 | [PDF](./file/ORBIT_PRD_v2.1.1.pdf) |
-| 2 | 정보구조도 (IA) v2.1.1 | 어떤 화면이 있고 누가 보는지 | [바로 보기](https://docs.google.com/spreadsheets/d/1zKLSNb6hCgOil7gRGjJXY0ZGOHpaHi7n/edit?usp=sharing&ouid=105082949644165699979&rtpof=true&sd=true) |
-| 3 | 사용자 흐름도 v1.1 | 어떤 순서로 움직이는지 | [바로 보기](https://portfolio-adamlee.vercel.app/ORBIT_UserFlow_v1.1.html) |
-| 4 | 와이어프레임 v1.1 | 무엇이 어디 놓이는지 | [바로 보기](https://portfolio-adamlee.vercel.app/ORBIT_Wireframe_Desktop_v1.1.html) |
-| 5 | 화면정의서 v1.0 | 버튼·오류까지 적은 명세 | [바로 보기](https://docs.google.com/spreadsheets/d/1IEBx5dls5SFYDWt0imqUh-klcDle6-kY/edit?usp=sharing&ouid=105082949644165699979&rtpof=true&sd=true) |
-| 6 | 프로토타입 v2.0 | 실제로 눌러볼 수 있는 데모 | [바로 보기](https://portfolio-adamlee.vercel.app/ORBIT_Prototype_Desktop_v2.0.html) |
+| | 볼 것 | 알 수 있는 것 |
+|---|---|---|
+| **3분** | [포트폴리오 전문](https://docs.google.com/presentation/d/104Rfggc78MU85dSzDAzINbqo-7tuh9yG/preview) p.1–3 | 두 사례가 무엇이고 어떤 결과를 냈는지 |
+| **10분** | + [프로토타입](https://dannylee-1.github.io/portfolio/ORBIT_Prototype_Desktop_v2_0.html) | 기획이 실제 화면으로 어떻게 떨어지는지. 상단 「스펙·계측」에 화면별 근거와 이벤트 로그가 붙어 있습니다 |
+| **30분** | + [PRD](https://seungjoo-lee.notion.site/ORBIT-PRD_v2-1-1-39270ad10eed807b86a2c629999cb41e) → [화면정의서](https://docs.google.com/spreadsheets/d/1pbuwz1ufTGbICS8LN3hzoa8X7hSJLZJC/preview) | 문서를 어느 수준까지 쓰는지, 결정의 근거를 어떻게 남기는지 |
 
-3·4·6번은 HTML 문서입니다. 파일을 직접 열면 코드로 보이니 **[바로 보기]** 링크를 이용해 주세요.
+한 개만 본다면 **프로토타입**입니다.
 
 ---
 
-## 핵심 설계 결정
+## 산출물
 
-- 구체화 결과와 후보를 **첫 화면에 동시 제시** — 후보 도달까지 클릭 0회
-- 궁합 점수를 **예비(마스킹) / 최종(공개)** 로 분리 — 순환 참조를 설계로 해소
-- 팀 뱃지를 **"이번 역할 · 0/1"** 로 — 채울 수 없는 3을 약속하지 않음
-- 후보 카드에 **약점도 함께 표기** — 오버셀링 방지
+작성한 순서 그대로입니다. 앞 문서가 뒤 문서의 근거가 되고, 뒤 문서에서 앞 문서로 역추적됩니다.
 
-만들기 전에 비전문가 6명에게 먼저 물었고, 그 답이 설계를 바꿨습니다.
-채우지 못한 부분은 임의로 메우지 않고 **Open Issue 14건**으로 남겼습니다.
+| # | 산출물 | 쉽게 말하면 | |
+|:--:|---|---|:--:|
+| 0 | **포트폴리오 전문** | 두 사례의 전체 이야기 (14p) | [바로보기](https://docs.google.com/presentation/d/104Rfggc78MU85dSzDAzINbqo-7tuh9yG/preview) |
+| 1 | **PRD** v2.1.1 | 무엇을, 왜 만들지 정한 문서 | [바로보기](https://seungjoo-lee.notion.site/ORBIT-PRD_v2-1-1-39270ad10eed807b86a2c629999cb41e) |
+| 2 | **정보구조도(IA)** v2.1.1 | 어떤 화면이 있고 누가 보는지 정리한 지도 | [바로보기](https://docs.google.com/spreadsheets/d/1JQs9eTeKOoI57Uw6eW30jp50jsUn18-s/preview) |
+| 3 | **사용자 흐름도** v1.1 | 처음부터 끝까지 어떤 순서로 움직이는지 | [바로보기](https://dannylee-1.github.io/portfolio/ORBIT_UserFlow_v1_1.html) |
+| 4 | **와이어프레임** v1.1 | 무엇이 어디 놓이는지 + 왜 그 자리인지 | [바로보기](https://dannylee-1.github.io/portfolio/ORBIT_Wireframe_Desktop_v1_1.html) |
+| 5 | **화면정의서** v1.0 | 개발자가 헷갈리지 않게 버튼·상태·에러까지 적은 명세 | [바로보기](https://docs.google.com/spreadsheets/d/1pbuwz1ufTGbICS8LN3hzoa8X7hSJLZJC/preview) |
+| 6 | **프로토타입** v2.0 | 실제로 눌러볼 수 있는 데모 | [바로보기](https://dannylee-1.github.io/portfolio/ORBIT_Prototype_Desktop_v2_0.html) |
+| 7 | **MVP 배포** | 주소로 접속하면 열리는 실제 사이트 | [바로보기](https://portfolio-adamlee.vercel.app) |
+| — | **임산부 불빛 배려석 제안서** | 사례 ①의 원본 제안 문서 | [바로보기](./임산부_배려석.pdf) |
 
 ---
 
-**이승주** · wkrurwmd135@gmail.com
+## 두 사례
+
+### ① 임산부 불빛 배려석 — 공공 제도 설계
+
+한 좌석에서 두 개의 실패가 동시에 일어납니다. 시민이 착석을 꺼려 **상시 공석**이 되고, 정작 임산부는 **필요할 때 앉지 못합니다.**
+
+"시민이 배려하지 않는다"(행정이 통제 불가)를 **"좌석은 지정했지만 작동하게 설계하지 않았다"**(통제 가능)로 재정의했습니다. 버튼을 누르면 불빛이 켜지는 신호 구조로 풀고, 원가·유지관리·오남용 방지까지 설계했습니다.
+
+> 공공기관 재직 중 단독 제안 · **심사위원 전원 적격 판정 → 서울시 아이디어풀 등재 대상 선정**
+
+### ② ORBIT — 팀빌딩 매칭 플랫폼
+
+100명을 뽑을 땐 채용 시스템이, 1건을 맡길 땐 크몽이 있습니다. **3명으로 시작하는 팀을 맺어주는 곳은 없습니다.**
+
+크몽·숨고는 사용자가 '무엇을·어떤 역할이' 필요한지 이미 안다고 전제합니다. ORBIT의 사용자는 그걸 모릅니다. 한 줄 아이디어를 필요한 역할로 번역하고, 지분·성과를 나눌 팀원과 잇습니다.
+
+> 3인 팀 프로젝트(2026.06–07) · 문제 정의와 설계 리드 · 사전 설문부터 MVP 배포까지 8단계 완주
+
+---
+
+## 이 저장소로 확인되는 것
+
+| | 어디서 |
+|---|---|
+| **문제를 다시 정의한다** | 두 사례 모두 — 특히 '시민 의식 → 제도 설계' 전환 |
+| **비전과 MVP를 분리한다** | PRD §6 — "보여주기는 여러 역할, 완주는 1개 역할·1명"으로 검증 범위를 의도적으로 좁힌 근거 |
+| **결정에 근거를 남긴다** | 와이어프레임 우측 주석, 화면정의서 '근거' 열 — 화면 요소가 PRD 조항까지 역추적됩니다 |
+| **모르는 것은 모른다고 적는다** | 화면정의서 `10_OpenIssue` — 문서 대조 중 발견한 미정의·충돌 14건을 임의로 채우지 않고 분리했습니다 |
+| **문서에서 멈추지 않는다** | 프로토타입과 Vercel 배포 — 기획 문서와 실제 화면이 같은 내용입니다 |
+
+---
+
+**이승주** · IT 서비스 기획 / 주니어 PM
+📧 wkrurwmd135@gmail.com
