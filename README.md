@@ -1,4 +1,4 @@
-# IT 서비스 기획 · PM 포트폴리오- 이승주
+# IT 서비스 기획 · PM 포트폴리오: 이승주
 
 문제의 겉모습이 아닌 근본 원인을 정의하고, 화면과 데이터로 설계하여 실제 서비스 배포까지 완성합니다.
 
@@ -17,8 +17,7 @@
 | 순서 | 문서 | 핵심 확인 포인트 |
 |:--:|---|---|
 | 1 | [포트폴리오 전문(PPT)](https://docs.google.com/presentation/d/104Rfggc78MU85dSzDAzINbqo-7tuh9yG/edit?usp=drive_link&ouid=102223352084121291107&rtpof=true&sd=true) (p.1–3) | 두 프로젝트의 핵심 문제 정의와 성과 요약 |
-| 2 | [제품 기획서 (PRD)](https://seungjoo-lee.notion.site/ORBIT-PRD_v2-1-1-39270ad10eed807b86a2c629999cb41e?source=copy_link)
-→ [화면 정의서(기능 명세서)](https://docs.google.com/spreadsheets/d/1pbuwz1ufTGbICS8LN3hzoa8X7hSJLZJC/edit?usp=drive_link&ouid=102223352084121291107&rtpof=true&sd=true) | 기획 문서의 완성도와 의사결정 근거가 남겨진 방식 |
+| 2 | [제품 기획서(PRD)](https://seungjoo-lee.notion.site/ORBIT-PRD_v2-1-1-39270ad10eed807b86a2c629999cb41e?source=copy_link) → [화면 정의서(기능 명세서)](https://docs.google.com/spreadsheets/d/1pbuwz1ufTGbICS8LN3hzoa8X7hSJLZJC/edit?usp=drive_link&ouid=102223352084121291107&rtpof=true&sd=true) | 기획 문서의 완성도와 의사결정 근거가 남겨진 방식 |
 | 3 | [화면 데모(프로토타입)](https://dannylee-1.github.io/portfolio/file/ORBIT_Prototype_Desktop_v2.0.html) | 기획이 실제 구현된 모습 |
 
 > 💡 단 하나의 산출물만 보신다면 [화면 데모(프로토타입)](https://dannylee-1.github.io/portfolio/file/ORBIT_Prototype_Desktop_v2.0.html)을 직접 눌러보시는 것을 추천합니다.
@@ -45,7 +44,7 @@
 
 ## 핵심 프로젝트
 
-### ① 임산부 불빛 배려석 — 공공 제도 설계
+### ① 임산부 불빛 배려석: 공공 제도 설계
 
 하나의 좌석에서 두 가지 문제가 동시에 발생합니다. 일반 시민은 눈치가 보여 **자리를 계속 비워두고**, 정작 임산부는 **필요할 때 도움을 받지 못합니다.**
 
@@ -53,13 +52,13 @@
 
 > 🏛️ **공공기관 재직 중 단독 제안** · 심사위원 전원 적격 판정→ **서울시 아이디어풀 등재 과제 선정**
 
-### ② ORBIT — 팀빌딩 매칭 플랫폼
+### ② ORBIT: 팀빌딩 매칭 플랫폼
 
 대규모 채용에는 채용 사이트가, 단건 외주에는 프리랜서 마켓이 있습니다. 하지만 **3명이 모여 작게 시작하는 '초기 팀 빌딩'을 도와주는 곳은 없습니다.**
 
 기존 서비스들은 사용자가 '어떤 개발자나 디자이너가 필요한지' 이미 다 알고 있다고 가정합니다. 하지만 처음 시작하는 사람은 그것을 모릅니다. ORBIT은 막연한 '한 줄 아이디어'만 적어도 필요한 팀원 역할을 자동으로 추천해주고, 성과와 지분을 함께 나눌 동료를 이어줍니다.
 
-> 🚀 **3인 팀 프로젝트 (202** · 문제 정의 및 서비스 기획 리드 · 사전 설문조사부터 실제 웹사이트 배포까지 8단계 완주
+> 🚀 **3인 팀 프로젝트** · 문제 정의 및 서비스 기획 리드 · 사전 설문조사부터 실제 웹사이트 배포까지 8단계 완주
 
 ---
 
