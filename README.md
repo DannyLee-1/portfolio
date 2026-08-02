@@ -33,8 +33,8 @@
 | 0 | **포트폴리오 전문(PPT)** | 두 프로젝트의 전체 이야기와 핵심 성과 요약(14p) | [바로보기](https://docs.google.com/presentation/d/104Rfggc78MU85dSzDAzINbqo-7tuh9yG/edit?usp=drive_link&ouid=102223352084121291107&rtpof=true&sd=true) |
 | 1 | **제품 기획서(PRD)** v2.1.1 | 무엇을, 왜 만드는지 문제와 기능 요구사항을 정리한 문서 | [바로보기](https://seungjoo-lee.notion.site/ORBIT-PRD_v2-1-1-39270ad10eed807b86a2c629999cb41e?source=copy_link) |
 | 2 | **정보 구조도(IA)** v2.1.1 | 서비스의 전체 메뉴와 화면 구성을 한눈에 보여주는 체계도 | [바로보기](https://docs.google.com/spreadsheets/d/1JQs9eTeKOoI57Uw6eW30jp50jsUn18-s/edit?usp=drive_link&ouid=102223352084121291107&rtpof=true&sd=true) |
-| 3 | **사용자 흐름도(User Flow)** v1.1 | 사용자가 첫 화면부터 완료까지 움직이는 이동 경로 | [바로보기](https://dannylee-1.github.io/portfolio/file/ORBIT_UserFlow_v1.1.html) |
-| 4 | **화면 설계 (와이어프레임)** v1.1 | 화면 뼈대 설계(버튼과 주요 기능의 배치 의도) | [바로보기](https://dannylee-1.github.io/portfolio/file/ORBIT_Wireframe_Desktop_v1.1.html) |
+| 3 | **사용자 흐름도(Userflow)** v1.1 | 사용자가 첫 화면부터 완료까지 움직이는 이동 경로 | [바로보기](https://dannylee-1.github.io/portfolio/file/ORBIT_UserFlow_v1.1.html) |
+| 4 | **화면 설계 (와이어프레임)** v1.1 | 화면 뼈대 설계 | [바로보기](https://dannylee-1.github.io/portfolio/file/ORBIT_Wireframe_Desktop_v1.1.html) |
 | 5 | **화면 정의서(기능 명세서)** v1.0 | 개발자가 바로 구현할 수 있게 버튼 동작, 상태, 에러 상황까지 적은 명세서 | [바로보기](https://docs.google.com/spreadsheets/d/1pbuwz1ufTGbICS8LN3hzoa8X7hSJLZJC/edit?usp=drive_link&ouid=102223352084121291107&rtpof=true&sd=true) |
 | 6 | **화면 데모(프로토타입)** v2.0 | 실제 웹사이트처럼 클릭하며 기획 의도를 확인하는 인터랙티브 데모 | [바로보기](https://dannylee-1.github.io/portfolio/file/ORBIT_Prototype_Desktop_v2.0.html) |
 | 7 | **실제 서비스(MVP 배포)** | 인터넷 주소로 누구나 접속해서 써볼 수 있는 실제 웹 서비스 | [바로보기](https://portfolio-adamlee.vercel.app) |
@@ -50,7 +50,7 @@
 
 문제를 "시민들의 배려심 부족(해결하기 어려움)"에서 "불빛 같은 알림 신호가 없는 구조적 문제(설계로 해결 가능)"로 다시 정의했습니다. 버튼을 누르면 불이 들어오는 직관적인 신호 체계를 설계하고, 제작 비용·유지 관리·악용 방지 대책까지 꼼꼼히 마련했습니다.
 
-> 🏛️ **공공기관 재직 중 단독 제안** · 심사위원 전원 적격 판정→ **서울시 아이디어풀 등재 과제 선정**
+> 🏛️ **공공기관 재직 중 단독 제안**: 심사위원 전원 적격 판정→ **서울시 아이디어풀 등재 과제 선정**
 
 ### ② ORBIT: 팀빌딩 매칭 플랫폼
 
@@ -58,7 +58,7 @@
 
 기존 서비스들은 사용자가 '어떤 개발자나 디자이너가 필요한지' 이미 다 알고 있다고 가정합니다. 하지만 처음 시작하는 사람은 그것을 모릅니다. ORBIT은 막연한 '한 줄 아이디어'만 적어도 필요한 팀원 역할을 자동으로 추천해주고, 성과와 지분을 함께 나눌 동료를 이어줍니다.
 
-> 🚀 **3인 팀 프로젝트** · 문제 정의 및 서비스 기획 리드 · 사전 설문조사부터 실제 웹사이트 배포까지 8단계 완주
+> 🚀 **3인 팀 프로젝트**: 문제 정의 및 서비스 기획 리드 · 사전 설문조사부터 실제 웹사이트 배포까지 8단계 완주
 
 ---
 
@@ -74,5 +74,5 @@
 
 ---
 
-**이승주** · IT 서비스 기획 / PM  
+**이승주**: IT 서비스 기획 / PM  
 📧 wkrurwmd135@gmail.com
