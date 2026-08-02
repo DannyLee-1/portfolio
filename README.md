@@ -2,10 +2,9 @@
 
 문제의 겉모습이 아닌 근본 원인을 정의하고, 화면과 데이터로 설계하여 실제 서비스 배포까지 완성합니다.
 
-공공 제도 설계와 웹 서비스 기획, 두 가지 프로젝트의 산출물입니다.  
-기획서 작성에 그치지 않고 **직접 눌러보는 화면 데모(프로토타입)와 실제 접속 가능한 웹사이트(MVP)**까지 구현했습니다.
+공공 제도 설계와 웹 서비스 기획 두 프로젝트의 산출물입니다. 기획서 작성에 그치지 않고 **직접 눌러보는 화면 데모(프로토타입)와 실제 접속 가능한 웹사이트(MVP)**까지 구현했습니다.
 
-| 포트폴리오 전문 (PPT) | 프로토타입 (화면 데모) | 실제 서비스 (MVP 배포) |
+| 포트폴리오 전문 (PPT) | 화면 데모 (프로토타입) | 실제 서비스 (MVP 배포) |
 |:--:|:--:|:--:|
 | [열기](https://docs.google.com/presentation/d/104Rfggc78MU85dSzDAzINbqo-7tuh9yG/edit?usp=drive_link&ouid=102223352084121291107&rtpof=true&sd=true) | [체험하기](https://dannylee-1.github.io/portfolio/file/ORBIT_Prototype_Desktop_v2.0.html) | [접속하기](https://portfolio-adamlee.vercel.app) |
 
@@ -13,15 +12,15 @@
 
 ## 빠른 확인 가이드
 
-바쁘신 분들을 위한 추천 열람 순서입니다.
+시간이 부족한 분들을 위한 추천 열람 순서입니다.
 
-| 문서 | 핵심 확인 포인트 |
-|---|---|
-| [포트폴리오 전문](https://docs.google.com/presentation/d/104Rfggc78MU85dSzDAzINbqo-7tuh9yG/edit?usp=drive_link&ouid=102223352084121291107&rtpof=true&sd=true) (p.1–3) | 두 프로젝트의 문제 정의와 핵심 성과 요약 |
-| ↳ [PRD](https://seungjoo-lee.notion.site/ORBIT-PRD_v2-1-1-39270ad10eed807b86a2c629999cb41e?source=copy_link) → [화면정의서](https://docs.google.com/spreadsheets/d/1pbuwz1ufTGbICS8LN3hzoa8X7hSJLZJC/edit?usp=drive_link&ouid=102223352084121291107&rtpof=true&sd=true) | 기획 문서를 얼마나 꼼꼼하게 쓰고 결정의 근거를 남기는지 |
-| ↳ [프로토타입](https://dannylee-1.github.io/portfolio/file/ORBIT_Prototype_Desktop_v2.0.html) | 기획이 실제 화면으로 구현된 모습 (상단 메뉴에서 화면별 기획 이유와 데이터 측정 기준 확인 가능) |
+| 순서 | 문서 | 핵심 확인 포인트 |
+|:--:|---|---|
+| 1 | [포트폴리오 전문 (PPT)](https://docs.google.com/presentation/d/104Rfggc78MU85dSzDAzINbqo-7tuh9yG/edit?usp=drive_link&ouid=102223352084121291107&rtpof=true&sd=true) (p.1–3) | 두 프로젝트의 핵심 문제 정의와 성과 요약 |
+| 2 | [제품 기획서 (PRD)](https://seungjoo-lee.notion.site/ORBIT-PRD_v2-1-1-39270ad10eed807b86a2c629999cb41e?source=copy_link) → [화면 정의서 (기능 명세서)](https://docs.google.com/spreadsheets/d/1pbuwz1ufTGbICS8LN3hzoa8X7hSJLZJC/edit?usp=drive_link&ouid=102223352084121291107&rtpof=true&sd=true) | 기획 문서의 완성도와 의사결정 근거가 남겨진 방식 |
+| 3 | [화면 데모 (프로토타입)](https://dannylee-1.github.io/portfolio/file/ORBIT_Prototype_Desktop_v2.0.html) | 기획이 실제 구현된 모습 (상단 메뉴에서 화면별 기획 이유와 데이터 계측 기준 확인 가능) |
 
-> 💡 시간이 부족해 **단 하나만 보신다면 [프로토타입](https://dannylee-1.github.io/portfolio/file/ORBIT_Prototype_Desktop_v2.0.html)**을 직접 눌러보시는 것을 추천합니다.
+> 💡 단 하나의 산출물만 보신다면 **[화면 데모 (프로토타입)](https://dannylee-1.github.io/portfolio/file/ORBIT_Prototype_Desktop_v2.0.html)**을 직접 눌러보시는 것을 추천합니다.
 
 ---
 
@@ -29,17 +28,17 @@
 
 실제 기획을 진행한 순서대로 정리했습니다. 앞 문서가 뒷 문서의 근거가 되며, 화면의 모든 버튼과 요소는 기획서 내용과 서로 연결되어 있습니다.
 
-| # | 산출물 | 쉽게 풀어서 설명하면 | 링크 |
+| # | 산출물 | 쉽게 풀어서 설명하면 | 바로가기 |
 |:--:|---|---|:--:|
-| 0 | **포트폴리오 전문** | 두 프로젝트의 전체 이야기와 핵심 성과 요약 (14p) | [바로보기](https://docs.google.com/presentation/d/104Rfggc78MU85dSzDAzINbqo-7tuh9yG/edit?usp=drive_link&ouid=102223352084121291107&rtpof=true&sd=true) |
-| 1 | **PRD (제품 기획서)** v2.1.1 | 무엇을, 왜 만드는지 문제와 기능 요구사항을 정리한 문서 | [바로보기](https://seungjoo-lee.notion.site/ORBIT-PRD_v2-1-1-39270ad10eed807b86a2c629999cb41e?source=copy_link) |
-| 2 | **정보구조도 (IA)** v2.1.1 | 서비스의 전체 메뉴와 화면 구성을 한눈에 보여주는 구조도 | [바로보기](https://docs.google.com/spreadsheets/d/1JQs9eTeKOoI57Uw6eW30jp50jsUn18-s/edit?usp=drive_link&ouid=102223352084121291107&rtpof=true&sd=true) |
+| 0 | **포트폴리오 전문 (PPT)** | 두 프로젝트의 전체 이야기와 핵심 성과 요약 (14p) | [바로보기](https://docs.google.com/presentation/d/104Rfggc78MU85dSzDAzINbqo-7tuh9yG/edit?usp=drive_link&ouid=102223352084121291107&rtpof=true&sd=true) |
+| 1 | **제품 기획서 (PRD)** v2.1.1 | 무엇을, 왜 만드는지 문제와 기능 요구사항을 정리한 문서 | [바로보기](https://seungjoo-lee.notion.site/ORBIT-PRD_v2-1-1-39270ad10eed807b86a2c629999cb41e?source=copy_link) |
+| 2 | **정보 구조도 (IA)** v2.1.1 | 서비스의 전체 메뉴와 화면 구성을 한눈에 보여주는 체계도 | [바로보기](https://docs.google.com/spreadsheets/d/1JQs9eTeKOoI57Uw6eW30jp50jsUn18-s/edit?usp=drive_link&ouid=102223352084121291107&rtpof=true&sd=true) |
 | 3 | **사용자 흐름도 (User Flow)** v1.1 | 사용자가 첫 화면부터 완료까지 움직이는 이동 경로 | [바로보기](https://dannylee-1.github.io/portfolio/file/ORBIT_UserFlow_v1.1.html) |
-| 4 | **와이어프레임** v1.1 | 화면 뼈대 설계 (버튼과 내용의 배치 의도) | [바로보기](https://dannylee-1.github.io/portfolio/file/ORBIT_Wireframe_Desktop_v1.1.html) |
-| 5 | **화면정의서** v1.0 | 개발자가 바로 만들 수 있게 버튼 동작, 상태, 에러 상황까지 적은 명세서 | [바로보기](https://docs.google.com/spreadsheets/d/1pbuwz1ufTGbICS8LN3hzoa8X7hSJLZJC/edit?usp=drive_link&ouid=102223352084121291107&rtpof=true&sd=true) |
-| 6 | **프로토타입 (화면 데모)** v2.0 | 실제 웹사이트처럼 클릭하며 기획 의도를 확인하는 인터랙티브 데모 | [바로보기](https://dannylee-1.github.io/portfolio/file/ORBIT_Prototype_Desktop_v2.0.html) |
-| 7 | **MVP 배포 (실제 사이트)** | 인터넷 주소로 누구나 접속해서 써볼 수 있는 실제 웹 서비스 | [바로보기](https://portfolio-adamlee.vercel.app) |
-| — | **임산부 불빛 배려석 제안서** | 사례 ① 공공 제도 개선 원본 제안 문서 (PDF) | [바로보기](./file/임산부_배려석.pdf) |
+| 4 | **화면 설계도 (와이어프레임)** v1.1 | 화면 뼈대 설계 (버튼과 주요 기능의 배치 의도) | [바로보기](https://dannylee-1.github.io/portfolio/file/ORBIT_Wireframe_Desktop_v1.1.html) |
+| 5 | **화면 정의서 (기능 명세서)** v1.0 | 개발자가 바로 구현할 수 있게 버튼 동작, 상태, 에러 상황까지 적은 명세서 | [바로보기](https://docs.google.com/spreadsheets/d/1pbuwz1ufTGbICS8LN3hzoa8X7hSJLZJC/edit?usp=drive_link&ouid=102223352084121291107&rtpof=true&sd=true) |
+| 6 | **화면 데모 (프로토타입)** v2.0 | 실제 웹사이트처럼 클릭하며 기획 의도를 확인하는 인터랙티브 데모 | [바로보기](https://dannylee-1.github.io/portfolio/file/ORBIT_Prototype_Desktop_v2.0.html) |
+| 7 | **실제 서비스 (MVP 배포)** | 인터넷 주소로 누구나 접속해서 써볼 수 있는 실제 웹 서비스 | [바로보기](https://portfolio-adamlee.vercel.app) |
+| — | **공공 제도 제안서 (PDF)** | 사례 ① 공공 제도 개선 원본 제안 문서 | [바로보기](./file/임산부_배려석.pdf) |
 
 ---
 
@@ -68,7 +67,7 @@
 | 기획 역량 | 구체적인 증명 내용 |
 |---|---|
 | **문제를 새롭게 정의하는 힘** | 현상의 겉모습만 보지 않고, 시스템과 구조를 바꿔서 해결할 수 있는 문제로 전환 (예: '시민 의식 탓하기' → '신호가 들어오는 배려석 설계') |
-| **핵심에 집중하는 감각 (MVP)** | [PRD §6] 처음부터 기능을 무작정 늘리지 않고, 핵심 기능(1개 역할 매칭)에 집중해 검증 속도를 높임 |
+| **핵심에 집중하는 감각 (MVP)** | [제품 기획서 §6] 처음부터 기능을 무작정 늘리지 않고, 핵심 기능(1개 역할 매칭)에 집중해 검증 속도를 높임 |
 | **모든 결정에 근거를 남기는 습관** | 와이어프레임 주석과 화면정의서의 '근거' 열을 통해, 화면의 모든 버튼과 요소가 왜 만들어졌는지 기획서에서 1:1로 확인 가능 |
 | **모르는 것을 솔직하게 기록하는 태도** | [화면정의서 10_OpenIssue] 기획 중 발견한 애매한 점이나 충돌 정책 14건을 자의적으로 결정하지 않고 '공식 이슈'로 분리해 투명하게 공유 |
 | **끝까지 만들어내는 실행력** | 문서 작성에서 멈추지 않고, 직접 눌러보는 데모 제작부터 실제 웹 서비스 배포까지 전 과정을 완결 |
