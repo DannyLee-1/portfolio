@@ -9,13 +9,14 @@
 }
 
 .header {
-  border-bottom-color: rgba(209, 220, 255, .1);
-  background: rgba(4, 6, 16, .82);
-  box-shadow: 0 1px 0 rgba(255, 255, 255, .025);
-}
-
-.hero .header {
-  background: linear-gradient(180deg, rgba(4, 6, 16, .58), transparent);
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  border-bottom: 1px solid rgba(209, 220, 255, .1);
+  background: rgba(4, 6, 16, .85);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  box-shadow: 0 1px 0 rgba(255, 255, 255, .025), 0 8px 24px -12px rgba(0, 0, 0, .5);
 }
 
 .nav-shell {
